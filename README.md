@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <h1 align="center">
-  <a href="#"> FIBONACCI </a>
+  <a href="#"> User's Infrastructure Script </a>
 </h1>
 
 <h4 align="center"> 
