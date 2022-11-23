@@ -5,7 +5,7 @@ groupadd grp_adm
 groupadd grp_ven
 groupadd grp_sec
 
-echo "Adding users: ADM."
+echo "Adding users: ADM"
 useradd carlos -s /bin/bash -G grp_adm -p $(openssl passwd -crypt "1234")
 useradd maria  -s /bin/bash -G grp_adm -p $(openssl passwd -crypt "1234")
 useradd joao   -s /bin/bash -G grp_adm -p $(openssl passwd -crypt "1234")
